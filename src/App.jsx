@@ -77,7 +77,7 @@ function App() {
       />
       <label htmlFor="numberInput">Numbers</label>
       </div>
-      <div className="flex items-center gap-x-1">
+      <div className="flex items-center ">
           <input
               type="checkbox"
               defaultChecked={charAllowed}
